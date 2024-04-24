@@ -43,5 +43,7 @@ This contains the entire codebase involving data preparation and cleaning, explo
 
 ## References
 - https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+- https://www.educative.io/answers/what-is-sequencematcher-in-python
 - https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
 - https://www.machinelearningplus.com/nlp/cosine-similarity/
+- https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
