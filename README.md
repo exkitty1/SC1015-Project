@@ -10,11 +10,30 @@ Our project also aims to predict IMDB ratings of movies given information about 
 - @dhvl2004 (Duong Hoang Vu Lam) - Exploratory Data Analysis, data preparation and cleaning
 - @exkitty1 (Ng Zi Yuan) - CountVectorizer for counting word occurences, CosineSimilarity for comparing 2 movies, menu functions
 
+## Problem Definition
+- Are we able to compare the similarity between two movies based on the dataset?
+- How are we able to determine what movies to recommend?
+- Can we predict the IMDB ratings for a movie using data from similar movies?
+- What regression model would best suit this prediction?
+
 ## Models Used
 - SequenceMatcher
 - CountVectorizer
 - CosineSimilarity
 - Random Forest
+
+## Conclusion
+-Able to suggest the correct movie if user made a typographical error
+- Able to accurately recommend the top 5 similar movies based on the contents of the movie and its genre
+- Random Forest Regression is accurate and reliable to predict IMDB ratings based on the given variables
+- Strong correlation between the genre, director and stars and IMDB ratings
+
+## Key takeaways
+- Sequence Matcher
+- Count Vectorizer
+- Cosine Similarity
+- Random Forest Regression Model
+- Data cleaning techniques to streamline machine learning
 
 ## Contents of This Repository
 ### Presentation Slides
