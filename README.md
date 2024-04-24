@@ -23,7 +23,7 @@ Our project also aims to predict IMDB ratings of movies given information about 
 - Random Forest
 
 ## Conclusion
--Able to suggest the correct movie if user made a typographical error
+- Able to suggest the correct movie if user made a typographical error
 - Able to accurately recommend the top 5 similar movies based on the contents of the movie and its genre
 - Random Forest Regression is accurate and reliable to predict IMDB ratings based on the given variables
 - Strong correlation between the genre, director and stars and IMDB ratings
